@@ -13,7 +13,6 @@
 
 ---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/YgCpwmlgoJxbDTVdzy/giphy.gif" alt="Coder at work" />
 
 
 ### 🛠️ Tech Stack
