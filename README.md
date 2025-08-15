@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">💻 Computer Engineering Student </h3>
+<h4 align="center">Hi! I'm Dea, a Computer Engineering student. This GitHub is where I track my growth and share projects as I build and refine my skills.</h4>
 
 ---
 
