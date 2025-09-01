@@ -40,10 +40,6 @@
     </tr>
     <tr>
       <td align="center" width="80">
-        <img src="https://github.com/your-username/your-repo-name/blob/main/images/tailwindcss-original.svg" height="40" alt="TailwindCSS"/><br/>
-        <sub>TailwindCSS</sub>
-      </td>
-      <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>
         <sub>Node.js</sub>
       </td>
@@ -55,12 +51,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/><br/>
         <sub>TensorFlow</sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="80">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras"/><br/>
         <sub>Keras</sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br/>
         <sub>C++</sub>
@@ -73,12 +69,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br/>
         <sub>MySQL</sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/><br/>
         <sub>PHP</sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="80">
         <img src="https://cdn-icons-png.flaticon.com/512/4228/4228727.png" height="40" alt="AI/ML"/><br/>
         <sub>Machine Learning</sub>
@@ -86,6 +82,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
@@ -102,8 +99,3 @@
   </a>
 </div>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DeaXhavara/DeaXhavara/output/snake.svg" alt="Snake animation" />
-</p>
