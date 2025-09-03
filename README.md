@@ -76,7 +76,7 @@
     </tr>
     <tr>
       <td align="center" width="80">
-        <img src="https://cdn-icons-png.flaticon.com/512/4228/4228727.png" height="40" alt="AI/ML"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/4228/4228727.png" height="40" alt="ML"/><br/>
         <sub>Machine Learning</sub>
       </td>
     </tr>
