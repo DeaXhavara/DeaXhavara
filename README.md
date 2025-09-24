@@ -8,8 +8,8 @@
 <div align="center">
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ3cjltcG5rNWYzcGh0cTY4ODhmaDdrNGhvNmlqcTk1dGprbmY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="250" alt="Top Languages" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ3cjltcG5rNWYzcGh0cTY4ODhmaDdrNGhvNmlqcTk1dGprbmY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif" height="200"/>
 </div>
 
 
