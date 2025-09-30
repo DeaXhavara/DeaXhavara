@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGp3bTZ1ZG1vdmNuN3dvOXFmMDN3NDE1OW8yZzNmZ24xdnFnZzR2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/p28JyC1xJ70KKO83j4/giphy.gif" height="80"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrN3ZsOGI0OTdsaG1pZ2w0am0yYzFkcWE4cnU2cHNvbWxxbzdseiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fSGrpj2wJynDwgftc7/giphy.gif" height="80"/>
 
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Dea+Xhavara+!;A+Computer+Engineering+Student+:);Welcome+to+my+GitHub!" alt="Typing SVG" />
