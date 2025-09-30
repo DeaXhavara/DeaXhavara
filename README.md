@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGp3bTZ1ZG1vdmNuN3dvOXFmMDN3NDE1OW8yZzNmZ24xdnFnZzR2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/p28JyC1xJ70KKO83j4/giphy.gif" height="80"/>
+
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Dea+Xhavara+!;A+Computer+Engineering+Student+:);Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <h4 align="center">Hi, I'm Dea, a Computer Engineering student. This GitHub is where I track my growth and share projects as I build and refine my skills.</h4>
@@ -6,10 +9,10 @@
 ---
 
 <div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeaXhavara&theme=bear&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=430&card_height=50)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="260" alt="Top Languages" />
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="250" alt="Top Languages" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ3cjltcG5rNWYzcGh0cTY4ODhmaDdrNGhvNmlqcTk1dGprbmY4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif" height="200"/>
 </div>
 
 
