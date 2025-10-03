@@ -4,7 +4,9 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Dea+Xhavara+!;A+Computer+Engineering+Student+:);Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-<h4 align="center">Hi, I'm Dea, a Computer Engineering student. This GitHub is where I track my growth and share projects as I build and refine my skills.</h4>
+<p align="center">
+𝙷𝚎𝚕𝚕𝚘, 𝙸 𝚊𝚖 𝙳𝚎𝚊, 𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝. 𝚃𝚑𝚒𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚜𝚎𝚛𝚟𝚎𝚜 𝚊𝚜 𝚊 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚏𝚘𝚛 𝚖𝚎 𝚝𝚘 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚖𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚜 𝙸 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜.
+</p>
 
 ---
 
