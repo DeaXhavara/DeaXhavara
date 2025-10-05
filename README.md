@@ -13,8 +13,10 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeaXhavara&theme=bear&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=430&card_height=50)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="260" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=DeaXhavara&theme=bear&mode=weekly" height="166" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=bear&hide_border=false" height="230" alt="Top Languages" />
 
 </div>
 
