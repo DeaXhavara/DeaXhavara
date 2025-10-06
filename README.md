@@ -22,10 +22,7 @@
 
 ---
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnBuZnpyejVmMnV0Mjk1d3J0dWd6Nnp0eWY4M3Vpdmg4amthcTVjNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lKPJPc1GjyZk9ccTi6/giphy.gif" height="80"/>
-
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
