@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Dea+Xhavara+!;A+Computer+Engineering+Student+:);Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 <p align="center">
-𝙷𝚎𝚕𝚕𝚘! 𝙸 𝚊𝚖 𝙳𝚎𝚊, 𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 & 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚗 𝙰𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝙸𝚗𝚝𝚎𝚛𝚗 at NeuralSeek. 𝚃𝚑𝚒𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚒𝚜 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚖𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚜 𝙸 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜.
+𝙷𝚎𝚕𝚕𝚘! 𝙸 𝚊𝚖 𝙳𝚎𝚊, 𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 & 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊𝚗 𝙰𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝙸𝚗𝚝𝚎𝚛𝚗. 𝚃𝚑𝚒𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚒𝚜 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚖𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚜 𝙸 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜.
   
 </p>
 
