@@ -32,7 +32,7 @@
 
 ---
 
-### Let's Connect!
+### Let's Connect
 
 <div align="left">
   <a href="mailto:deaxhavara@gmail.com" target="_blank">
