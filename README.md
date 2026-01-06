@@ -12,9 +12,7 @@
 
 <div align="center">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=DeaXhavara&theme=bear&mode=weekly" height="166" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeaXhavara&theme=bear&hide_border=true&border_radius=6&mode=weekly&card_width=494&card_height=193" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=bear&hide_border=false" height="230" alt="Top Languages" />
 
 </div>
