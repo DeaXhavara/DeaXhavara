@@ -9,15 +9,6 @@
 </p>
 
 ---
-
-<div align="center">
-  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeaXhavara&theme=bear&hide_border=true&border_radius=6&mode=weekly&card_width=494&card_height=193" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeaXhavara&layout=compact&langs_count=6&theme=bear&hide_border=false" height="230" alt="Top Languages" />
-
-</div>
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBrN3ZsOGI0OTdsaG1pZ2w0am0yYzFkcWE4cnU2cHNvbWxxbzdseiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fSGrpj2wJynDwgftc7/giphy.gif" height="80"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Tech+Stack" alt="Typing SVG" />
